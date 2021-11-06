@@ -1,2 +1,2 @@
 # OctoBrowser
-OctoBrowser simple browser based on chromium
+OctoBrowser simple browser based on flutter
